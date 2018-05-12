@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8543'
     url: http://www.gutenberg.org/2009/agents/8543
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19190#Men-Called-Him-Master
 gutenberg_issued: '2006-09-06'
 gutenberg_type: Text
 identifiers:
